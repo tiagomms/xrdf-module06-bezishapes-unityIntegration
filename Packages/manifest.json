@@ -4,7 +4,7 @@
     "com.atteneder.gltfast": "6.0.1",
     "com.bezel.unity": "https://github.com/bezi3d/bezi_unity_bridge.git?path=/BeziUnityBridgePlugin#main",
     "com.meta.xr.sdk.all": "60.0.0",
-    "com.meta.xr.simulator.samples": "file:/Users/tiagomisilva/Downloads/com.meta.xr.simulator.samples-60.0.0.tgz",
+    "com.meta.xr.sdk.interaction.ovr.samples": "60.0.0",
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.ide.rider": "3.0.27",
     "com.unity.ide.visualstudio": "2.0.22",

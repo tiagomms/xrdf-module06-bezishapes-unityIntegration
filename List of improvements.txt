@@ -1,0 +1,3 @@
+Later TODOs:
+- Create event manager - Invoke methods based on event method being launched
+	- Example: ToggleDock method - based on true/false => open/close Dock
