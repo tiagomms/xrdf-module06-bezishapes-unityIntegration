@@ -1,7 +1,7 @@
 # xrdf-module06-bezishapes-unityIntegration
 XR Design Fellowship Module 06 - Bezi or ShapesXR integration with Unity
 
-## [Project description](https://tiagomms.github.io/xr-portfolio/xr-design-fellowship-module-06-assign/)
+## [Project description](https://tiagomms.github.io/xr-portfolio/blog/xr-design-fellowship-module-06-assign/)
 
 Imported project developed in Bezi for Module 01 into Unity and used Meta Quest building blocks and some code to make it interactive.
 
