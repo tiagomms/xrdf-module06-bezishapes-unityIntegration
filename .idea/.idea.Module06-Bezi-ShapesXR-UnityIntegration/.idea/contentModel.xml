@@ -75,94 +75,6 @@
             <e p="readme_DOTweenPro.txt" t="Include" />
           </e>
         </e>
-        <e p="Samples" t="Include">
-          <e p="Timeline" t="Include">
-            <e p="1.7.6" t="Include">
-              <e p="Customization Samples" t="Include">
-                <e p="Annotation" t="Include">
-                  <e p="AnnotationMarker.cs" t="Include" />
-                  <e p="Editor" t="Include">
-                    <e p="AnnotationMarkerEditor.cs" t="Include" />
-                    <e p="CreateAnnotationAction.cs" t="Include" />
-                    <e p="ReplaceAnnotationDescriptionAction.cs" t="Include" />
-                    <e p="StyleSheets" t="Include">
-                      <e p="Extensions" t="Include">
-                        <e p="common.uss" t="Include" />
-                        <e p="dark.uss" t="Include" />
-                        <e p="light.uss" t="Include" />
-                      </e>
-                    </e>
-                    <e p="Timeline.Samples.Annotation.Editor.asmdef" t="Include" />
-                  </e>
-                  <e p="Timeline.Samples.Annotation.asmdef" t="Include" />
-                </e>
-                <e p="Text" t="Include">
-                  <e p="Editor" t="Include">
-                    <e p="TextPlayableAssetClipEditor.cs" t="Include" />
-                    <e p="Timeline.Samples.Text.Editor.asmdef" t="Include" />
-                  </e>
-                  <e p="TextPlayableAsset.cs" t="Include" />
-                  <e p="TextPlayableBehaviour.cs" t="Include" />
-                  <e p="TextTrack.cs" t="Include" />
-                  <e p="TextTrackMixerBehaviour.cs" t="Include" />
-                  <e p="Timeline.Samples.Text.asmdef" t="Include" />
-                </e>
-                <e p="TimeDilation" t="Include">
-                  <e p="TimeDilationBehaviour.cs" t="Include" />
-                  <e p="TimeDilationMixerBehaviour.cs" t="Include" />
-                  <e p="TimeDilationPlayableAsset.cs" t="Include" />
-                  <e p="TimeDilationTrack.cs" t="Include" />
-                  <e p="Timeline.Samples.TimeDilation.asmdef" t="Include" />
-                </e>
-                <e p="Tween" t="Include">
-                  <e p="Editor" t="Include">
-                    <e p="Timeline.Samples.Tween.Editor.asmdef" t="Include" />
-                    <e p="TweenClipEditor.cs" t="Include" />
-                  </e>
-                  <e p="Timeline.Samples.Tween.asmdef" t="Include" />
-                  <e p="TweenBehaviour.cs" t="Include" />
-                  <e p="TweenClip.cs" t="Include" />
-                  <e p="TweenMixerBehaviour.cs" t="Include" />
-                  <e p="TweenTrack.cs" t="Include" />
-                </e>
-                <e p="Utilities" t="Include">
-                  <e p="Editor" t="Include">
-                    <e p="NoFoldOutPropertyDrawer.cs" t="Include" />
-                    <e p="Timeline.Samples.Utilities.Editor.asmdef" t="Include" />
-                  </e>
-                  <e p="NoFoldOutAttribute.cs" t="Include" />
-                  <e p="QuaternionUtils.cs" t="Include" />
-                  <e p="Timeline.Samples.Utilities.asmdef" t="Include" />
-                </e>
-                <e p="Video" t="Include">
-                  <e p="Editor" t="Include">
-                    <e p="Timeline.Samples.Video.Editor.asmdef" t="Include" />
-                    <e p="VideoAssetClipEditor.cs" t="Include" />
-                  </e>
-                  <e p="Timeline.Samples.Video.asmdef" t="Include" />
-                  <e p="VideoPlayableAsset.cs" t="Include" />
-                  <e p="VideoPlayableBehaviour.cs" t="Include" />
-                  <e p="VideoSchedulerPlayableBehaviour.cs" t="Include" />
-                  <e p="VideoTrack.cs" t="Include" />
-                </e>
-              </e>
-              <e p="Gameplay Sequence Demo" t="Include">
-                <e p="Info" t="Include">
-                  <e p="Scripts" t="Include">
-                    <e p="Editor" t="Include">
-                      <e p="ReadmeEditor.cs" t="Include" />
-                    </e>
-                    <e p="Readme.cs" t="Include" />
-                    <e p="Samples.GameplaySequence.asmdef" t="Include" />
-                  </e>
-                </e>
-                <e p="Shaders" t="Include">
-                  <e p="WorldSpaceGrid.shader" t="Include" />
-                </e>
-              </e>
-            </e>
-          </e>
-        </e>
         <e p="Scripts" t="Include">
           <e p="AppModeProcessor.cs" t="Include" />
           <e p="AppModeTrigger.cs" t="Include" />
@@ -7363,20 +7275,8 @@
       <e p="Oculus.VR.Scripts.Editor.csproj" t="IncludeRecursive" />
       <e p="OverloadedFunctionPointers.csproj" t="IncludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Samples.GameplaySequence.csproj" t="IncludeRecursive" />
       <e p="SeparateAssembly.csproj" t="IncludeRecursive" />
       <e p="Temp\Bin" t="ExcludeRecursive" />
-      <e p="Timeline.Samples.Annotation.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Annotation.Editor.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Text.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Text.Editor.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.TimeDilation.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Tween.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Tween.Editor.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Utilities.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Utilities.Editor.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Video.csproj" t="IncludeRecursive" />
-      <e p="Timeline.Samples.Video.Editor.csproj" t="IncludeRecursive" />
       <e p="Unity.AI.Navigation.csproj" t="IncludeRecursive" />
       <e p="Unity.AI.Navigation.Editor.ConversionSystem.csproj" t="IncludeRecursive" />
       <e p="Unity.AI.Navigation.Editor.csproj" t="IncludeRecursive" />
