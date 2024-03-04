@@ -11,6 +11,7 @@
       <e p="Assets" t="Include">
         <e p="BeziFiles" t="Include">
           <e p="bezel_096d51bb.json" t="Include" />
+          <e p="bezel_edd92b88.json" t="Include" />
         </e>
         <e p="DOTween Examples" t="Include">
           <e p="_Shared Example Assets" t="Include">
@@ -79,6 +80,7 @@
           <e p="AppModeProcessor.cs" t="Include" />
           <e p="AppModeTrigger.cs" t="Include" />
           <e p="CustomBeziTriggerAnimation.cs" t="Include" />
+          <e p="FadeInOutLightAnimation.cs" t="Include" />
           <e p="OnChangeAppMode.cs" t="Include" />
           <e p="ToggleDock.cs" t="Include" />
         </e>

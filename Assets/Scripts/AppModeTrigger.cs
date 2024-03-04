@@ -16,14 +16,13 @@ public class AppModeTrigger : MonoBehaviour
     [CanBeNull] public CustomBeziTriggerAnimation beziAnimations => _beziAnimations;
 
     [SerializeField] private OnChangeAppMode snapArea;
+    public OnChangeAppMode thisSnapArea => snapArea;
 
     public void ToggleSnapAreaIfAppStateMatches(AppMode newState)
     {
-        if (snapArea != null)
-        {
-            GameObject obj = snapArea.gameObject;
-            obj.SetActive(!obj.activeSelf);
-        }
+        if (snapArea == null) return;
+        GameObject obj = snapArea.gameObject;
+        obj.SetActive(!obj.activeSelf);
     }
 
     public void EnableSnapAreaMeshRenderer()

@@ -1,0 +1,7227 @@
+{
+  "bezel_objects": [
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--4dcea96a-1ca1-4a22-9e7e-2ad6393eb050",
+      "type": "DirectionalLight",
+      "lastWriter": "",
+      "lastUpdated": 1705561555832,
+      "name": "Directional light",
+      "parent": null,
+      "index": "Zz",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 2.874633580707409,
+        "y": 8.94427190999916,
+        "z": 3.4258548972000114
+      },
+      "rotation": {
+        "x": -1.2050110918456485,
+        "y": 0.2915773534922545,
+        "z": 0.20130364324780828
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": false,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "shadows": {
+          "isEnabled": true
+        },
+        "color": "#FFFFFF",
+        "intensity": 1,
+        "shouldShowHelper": true
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "type": "XRRig",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Body Rig 1",
+      "parent": null,
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "states": {
+          "base": {
+            "cameraBookmarkData": {
+              "publishIndex": "a0",
+              "isBookmark": true
+            }
+          }
+        }
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "height": 1.6,
+        "isShowControllers": true,
+        "headset": "Quest 2",
+        "isDirectTouchEnabled": true,
+        "helperType": "NONE"
+      },
+      "material": "faa2a38d-7acb-493e-8847-9a8438ab5a56",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "type": "XRRig",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Body Rig 1",
+      "parent": null,
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "states": {
+          "base": {
+            "cameraBookmarkData": {
+              "publishIndex": "a0",
+              "isBookmark": true
+            }
+          }
+        }
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "height": 1.6,
+        "isShowControllers": true,
+        "headset": "Quest 2",
+        "isDirectTouchEnabled": true,
+        "helperType": "NONE"
+      },
+      "material": "faa2a38d-7acb-493e-8847-9a8438ab5a56",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--0f2679b8-bc9e-4128-939f-bce7ca9e29b0",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Right Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--22c345d3-436b-4a93-a1e2-787e94c8968f",
+      "type": "Hand",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Left Hand",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": -0.4,
+        "y": 0.8,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.66545495233609508,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--d78d8cd4-2168-4a84-966a-ee49c6a7fd2e",
+      "type": "Head",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Head",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0,
+        "y": 1.4000000000000001,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--52f27cc3-c644-42a9-9d4e-950bcf7f82d8",
+      "type": "Camera",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555832,
+      "name": "Body Rig Camera",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--d78d8cd4-2168-4a84-966a-ee49c6a7fd2e",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "isScaleLinked": true,
+      "urlKey": null,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "activeState": "xrMovement",
+      "activeParentStateId": null,
+      "startState": null,
+      "states": {
+        "xrMovement": {
+          "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--52f27cc3-c644-42a9-9d4e-950bcf7f82d8",
+          "type": "Camera",
+          "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+          "lastUpdated": 1705561555832,
+          "name": "xrMovement",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--d78d8cd4-2168-4a84-966a-ee49c6a7fd2e",
+          "index": "a0",
+          "isVisible": true,
+          "isLocked": false,
+          "collapsed": false,
+          "isScaleLinked": true,
+          "urlKey": null,
+          "lastGeometryUpdated": 0,
+          "subdivisions": 0,
+          "activeState": null,
+          "activeParentStateId": null,
+          "startState": null,
+          "states": {},
+          "parentStates": {},
+          "ttl": 0,
+          "parameters": {
+            "index": 1,
+            "publishIndex": "a0",
+            "target": {
+              "x": 0,
+              "y": 1.4000000000000001,
+              "z": -9
+            },
+            "spherical": {
+              "radius": 10,
+              "phi": 1.5707963267948966,
+              "theta": 0
+            },
+            "focalOffset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "projection": "perspective",
+            "fov": 77.001307440690866,
+            "zoom": 1,
+            "isBookmark": true,
+            "lensUnit": "FOV",
+            "focalLength": 22
+          },
+          "colliders": {},
+          "asset": null,
+          "assetSource": null,
+          "isInstance": false,
+          "assetVersion": 0,
+          "overrides": null,
+          "activeImportedAnimation": null,
+          "importedAnimations": {},
+          "behaviors": {},
+          "viewSettings": {
+            "castShadow": true,
+            "receiveShadow": true,
+            "side": 0
+          },
+          "isInteractive": false,
+          "layerOpacity": 1,
+          "interactions": {},
+          "version": 231130,
+          "_metadata": {},
+          "isReadOnly": true
+        }
+      },
+      "parentStates": {},
+      "ttl": 0,
+      "parameters": {
+        "index": 1,
+        "publishIndex": "a0",
+        "target": {
+          "x": 0,
+          "y": 1.4000000000000001,
+          "z": -10
+        },
+        "spherical": {
+          "radius": 10,
+          "phi": 1.5707963267948966,
+          "theta": 0
+        },
+        "focalOffset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "projection": "perspective",
+        "fov": 77.001307440690866,
+        "zoom": 1,
+        "isBookmark": true,
+        "lensUnit": "FOV",
+        "focalLength": 22
+      },
+      "colliders": {},
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "assetVersion": 0,
+      "overrides": null,
+      "activeImportedAnimation": null,
+      "importedAnimations": {},
+      "behaviors": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "states": {
+          "base": {
+            "cameraBookmarkData": {
+              "publishIndex": "a0",
+              "isBookmark": true
+            }
+          }
+        }
+      },
+      "isReadOnly": true
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--d78d8cd4-2168-4a84-966a-ee49c6a7fd2e",
+      "type": "Head",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Head",
+      "parent": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "isReadOnly": true,
+      "position": {
+        "x": 0,
+        "y": 1.4000000000000001,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--71d3006a-e8a5-4ce6-a971-8986fbcf6923",
+      "type": "XRRig",
+      "lastWriter": "ddcf70a9-2a19-4ff0-9490-3fe75bc3fae5",
+      "lastUpdated": 1705561555833,
+      "name": "Body Rig 1",
+      "parent": null,
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "states": {
+          "base": {
+            "cameraBookmarkData": {
+              "publishIndex": "a0",
+              "isBookmark": true
+            }
+          }
+        }
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "height": 1.6,
+        "isShowControllers": true,
+        "headset": "Quest 2",
+        "isDirectTouchEnabled": true,
+        "helperType": "NONE"
+      },
+      "material": "faa2a38d-7acb-493e-8847-9a8438ab5a56",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "e3e0ab9b-83e2-497a-9577-7bca8f14dda5",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708880123279,
+      "name": "LR_J1_07_-_Default_0",
+      "parent": "92fc3e1c-3e9d-4ba5-9199-d7f646cf2054",
+      "index": "Zx",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": -1.5707966297411757,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 0.99999996577147576,
+        "z": 0.99999996577147576
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968418300,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 22.02736759185791,
+        "height": 12.987404346466064,
+        "depth": 26.562892183661461,
+        "areDimensionsLinked": false
+      },
+      "material": "5d49af9b-cfac-4457-959b-1a0abc8106ce",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "a5663027-2606-4ac3-a725-c0d6dda376cc",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "92fc3e1c-3e9d-4ba5-9199-d7f646cf2054",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708880123279,
+      "name": "Scene",
+      "parent": "d20c0134-ba2c-41ce-b52a-ca7a0ad75f47",
+      "index": "Zx",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "d20c0134-ba2c-41ce-b52a-ca7a0ad75f47",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882592279,
+      "name": "buddha-pivot-point-change",
+      "parent": "1876a95b-a9b0-4c18-8d9f-6d509ccf3411",
+      "index": "Zs",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -0.18323819266340036
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.022699035548161391,
+        "y": 0.022699035548155413,
+        "z": 0.022699035548169131
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "4941f32d-81c3-453c-8a69-77bc1b143367",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708880331300,
+      "name": "stick_low_lambert1_0",
+      "parent": "cdb0e74d-eaf8-4654-a9db-b10e01122d6a",
+      "index": "Zw",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": -3.1415926535897931,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.0099999997764825821,
+        "y": 0.010000001639127731,
+        "z": 0.010000001639127731
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968426546,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 0.27780961990356445,
+        "height": 14.980683326721191,
+        "depth": 0.27780911326408386,
+        "areDimensionsLinked": false
+      },
+      "material": "5e8701ca-ff6f-4fb2-9613-e103baf95352",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "0c75c2e5-37e0-4e99-a4a5-1d7e07f0c8ab",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "cdb0e74d-eaf8-4654-a9db-b10e01122d6a",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708880331300,
+      "name": "Scene",
+      "parent": "053aa517-9f7c-4bd9-9ea1-e6f5699ae414",
+      "index": "Zw",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "053aa517-9f7c-4bd9-9ea1-e6f5699ae414",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708888007662,
+      "name": "incense",
+      "parent": "1876a95b-a9b0-4c18-8d9f-6d509ccf3411",
+      "index": "Zr",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": "2",
+      "activeParentStateId": null,
+      "states": {
+        "1": {
+          "position": {
+            "x": 0.0013554089706062297,
+            "y": 0.14757919573845835,
+            "z": 0.23142942004144018
+          },
+          "rotation": {
+            "x": 0.15707963267948932,
+            "y": 0,
+            "z": 0
+          },
+          "scale": {
+            "x": 1,
+            "y": 0.99999999999999978,
+            "z": 0.99999999999999978
+          },
+          "behaviors": {},
+          "material": {},
+          "parameters": {
+            "helperType": "NONE"
+          },
+          "name": "Start"
+        },
+        "2": {
+          "behaviors": {},
+          "material": {},
+          "parameters": {},
+          "name": "Stop"
+        }
+      },
+      "parentStates": {},
+      "startState": null,
+      "colliders": {
+        "4d696292-75cc-4261-b5c2-347d43a7f65d": {
+          "id": "4d696292-75cc-4261-b5c2-347d43a7f65d",
+          "name": "Collider 1",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "shape": {
+            "type": "BOX",
+            "halfExtents": {
+              "x": 0.015,
+              "y": null,
+              "z": 0.015,
+              "isLinked": false
+            },
+            "halfExtentsPadding": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "isLinked": true
+            }
+          },
+          "isEnabled": true
+        }
+      },
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {
+        "f9488781-8845-4530-abe6-812986d9e928": {
+          "trigger": {
+            "type": "animationTrigger.auto",
+            "event": "animationTrigger.auto"
+          },
+          "animations": {
+            "d9f6baa3-fcfb-4f47-81af-c13dda698a20": {
+              "id": "d9f6baa3-fcfb-4f47-81af-c13dda698a20",
+              "sceneEntityId": "entity_self",
+              "fromStateId": null,
+              "toStateId": "2",
+              "duration": 0
+            }
+          }
+        },
+        "7c216201-903f-4c77-92b2-4f0653c905cf": {
+          "trigger": {
+            "type": "animationTrigger.pointer",
+            "event": "animationEvent.pointerDown",
+            "targetEntityIds": [
+              "entity_self"
+            ]
+          },
+          "animations": {
+            "d863c3c9-0f4a-4e98-8862-d38f35a90f71": {
+              "id": "d863c3c9-0f4a-4e98-8862-d38f35a90f71",
+              "sceneEntityId": "entity_self",
+              "fromStateId": "2",
+              "toStateId": "1",
+              "duration": 0.5
+            }
+          }
+        },
+        "16eff37b-0ef3-4fee-a392-3ff9dd2a04df": {
+          "trigger": {
+            "type": "animationTrigger.pointer",
+            "event": "animationEvent.pointerDown",
+            "targetEntityIds": [
+              "entity_self"
+            ]
+          },
+          "animations": {
+            "a8743f05-ee93-4e68-bfea-722391e75aba": {
+              "id": "a8743f05-ee93-4e68-bfea-722391e75aba",
+              "sceneEntityId": "entity_self",
+              "fromStateId": "1",
+              "toStateId": "2",
+              "duration": 0.5
+            }
+          }
+        }
+      },
+      "version": 231130,
+      "_metadata": {
+        "states": {
+          "1": {
+            "nodePosition": {
+              "x": 492,
+              "y": 200
+            }
+          },
+          "2": {
+            "nodePosition": {
+              "x": 310.4,
+              "y": 200.80000000000018
+            }
+          },
+          "base": {
+            "nodePosition": {
+              "x": 300,
+              "y": 100
+            }
+          },
+          "start_state": {
+            "nodePosition": {
+              "x": 100,
+              "y": 100
+            }
+          }
+        },
+        "interactions": {
+          "timelineIndicesByAnimationId": {
+            "29c60e85-e797-48ca-8a5c-80509c1b0a66": "a0",
+            "8cf9055c-ae3d-4e90-8f01-c9da94c2aa30": "Zz",
+            "eff59038-4760-4bc2-8c72-86e495537240": "Zy",
+            "d9f6baa3-fcfb-4f47-81af-c13dda698a20": "Zx",
+            "d863c3c9-0f4a-4e98-8862-d38f35a90f71": "Zq",
+            "a8743f05-ee93-4e68-bfea-722391e75aba": "Zp"
+          }
+        }
+      },
+      "position": {
+        "x": -0.056143806217193247,
+        "y": 0.030967806406815956,
+        "z": 0.2792397758434062
+      },
+      "rotation": {
+        "x": 1.5707963267948963,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "d6dff74c-f69b-4203-b26f-cecccf092e34",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882011444,
+      "name": "LP_Default_OBJ_0",
+      "parent": "fbde92fc-48bf-4e9b-9300-38f4b8cc1a0b",
+      "index": "Zu",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 100,
+        "y": 100.00002288818359,
+        "z": 100.00002288818359
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968417648,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 1.080595850944519,
+        "height": 0.55555384978652,
+        "depth": 1.0844172835350037,
+        "areDimensionsLinked": false
+      },
+      "material": "d1536f74-1108-4e79-8e28-aada6a199eed",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "439cbb8c-6299-4fdb-8afe-3b01802d084e",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "fbde92fc-48bf-4e9b-9300-38f4b8cc1a0b",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882011444,
+      "name": "Scene",
+      "parent": "95831772-0b8b-4180-9b23-e0ae020e9aaf",
+      "index": "Zu",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "95831772-0b8b-4180-9b23-e0ae020e9aaf",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882672133,
+      "name": "bowl",
+      "parent": "1876a95b-a9b0-4c18-8d9f-6d509ccf3411",
+      "index": "Zp",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0.25787355605385109,
+        "y": 0.0074662140342083294,
+        "z": 0.16174097098577089
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.0016019113653791036,
+        "y": 0.0016019052147042325,
+        "z": 0.0016019052147044556
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "d418dc53-55bd-4d60-b76d-c8be2e4d8e94",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "polySurface10_P_3_0",
+      "parent": "6c251ebf-ff5f-4568-833b-ce06abf18e44",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968426425,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 2.691032886505127,
+        "height": 0.44613766670227051,
+        "depth": 2.6858729124069214,
+        "areDimensionsLinked": false
+      },
+      "material": "3678839c-e355-4e47-847e-69f6f46591d2",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "d7987231-1592-43fb-baff-b09f987ad0ee",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "6c251ebf-ff5f-4568-833b-ce06abf18e44",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "polySurface10",
+      "parent": "a1e2a1a7-33f3-45c3-a19d-fe0598bedf55",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": -1.6347291469573975,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "4a09a7ae-bd42-425f-8d78-483e4aa467dd",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "polySurface11_P_2_0",
+      "parent": "2aee7260-42cd-47fd-9ebc-f986da9efd4a",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968418245,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 12.248103141784668,
+        "height": 2.4453719854354858,
+        "depth": 12.9812331199646,
+        "areDimensionsLinked": false
+      },
+      "material": "40c0a77a-cf7a-44a5-a812-a7d38c398438",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "066fcd3d-a954-4db4-8792-d02b803d3893",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "2aee7260-42cd-47fd-9ebc-f986da9efd4a",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "polySurface11",
+      "parent": "a1e2a1a7-33f3-45c3-a19d-fe0598bedf55",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": -1.6347291469573975,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "a1e2a1a7-33f3-45c3-a19d-fe0598bedf55",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "polySurface8",
+      "parent": "00dc129f-25ac-43ac-a4d5-761cf4f6964a",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0.054661236703395844,
+        "y": 0.62551015615463257,
+        "z": 0.0777369886636734
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.716755747795105,
+        "y": 0.716755747795105,
+        "z": 0.716755747795105
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "ecafccfe-424d-4446-9fe0-2fbdef6d7442",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "pPipe4_P_4_0",
+      "parent": "08e62b5f-6a00-4330-a452-4b454adaa214",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968417632,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 3.3536916971206665,
+        "height": 5.7384891510009766,
+        "depth": 3.3515042066574097,
+        "areDimensionsLinked": false
+      },
+      "material": "a2dd6f56-224c-4324-b82a-77d71ccc68c4",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "37030d70-1786-4a4b-8795-823f21996aeb",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "08e62b5f-6a00-4330-a452-4b454adaa214",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "pPipe4",
+      "parent": "00dc129f-25ac-43ac-a4d5-761cf4f6964a",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0.1569121778011322,
+        "y": -2.1822042465209961,
+        "z": 0.22395890951156616
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.72870618104934692,
+        "y": 0.72870612144470215,
+        "z": 0.72870612144470215
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "4acd440f-2998-40b9-8c05-c74631d3f74c",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "polySurface7_P_1_0",
+      "parent": "1485eef5-0aad-49b7-920f-73aa8d1e553e",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968426406,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 20.417572021484375,
+        "height": 4.9646706581115723,
+        "depth": 21.653655052185059,
+        "areDimensionsLinked": false
+      },
+      "material": "67dce2b8-be16-4aa0-896d-df0f47e5828c",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "b57dabbc-9665-4750-b5e3-5a32d454206d",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "1485eef5-0aad-49b7-920f-73aa8d1e553e",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "polySurface7",
+      "parent": "00dc129f-25ac-43ac-a4d5-761cf4f6964a",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 1.8964393138885498,
+        "y": -0.98967909812927246,
+        "z": 1.9832834005355835
+      },
+      "rotation": {
+        "x": -0.089315534475956027,
+        "y": -0.0014088975198969077,
+        "z": 0.087697789524141076
+      },
+      "scale": {
+        "x": 0.95782375395403541,
+        "y": 1.0148339284423231,
+        "z": 0.95890593590748907
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "00dc129f-25ac-43ac-a4d5-761cf4f6964a",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "RootNode",
+      "parent": "424e9381-a496-452c-9226-49cc031517c2",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "424e9381-a496-452c-9226-49cc031517c2",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "23ca1cbd559b45398fe510c6f6c58840fbx",
+      "parent": "d5650226-d647-438c-bb90-97d1a9b83ca7",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 1.5707966297411764,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.0099999997764825821,
+        "y": 0.010000000365519889,
+        "z": 0.010000000365519889
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "d5650226-d647-438c-bb90-97d1a9b83ca7",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882021923,
+      "name": "Sketchfab_model",
+      "parent": "e54f04e0-150b-4ac6-9555-bf23bbe4ec09",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": -1.5707966297411757,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 2,
+        "y": 2.0000001699615226,
+        "z": 2.0000001699615226
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "e54f04e0-150b-4ac6-9555-bf23bbe4ec09",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882710826,
+      "name": "Scene",
+      "parent": "9f3df33b-b431-414d-a162-40f5ac6d21e2",
+      "index": "Zv",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": -0.0092569422050445826,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.93435791024125181,
+        "y": 0.93435791024124193,
+        "z": 0.93435791024125492
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "9f3df33b-b431-414d-a162-40f5ac6d21e2",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708887603703,
+      "name": "incense-holder",
+      "parent": "1876a95b-a9b0-4c18-8d9f-6d509ccf3411",
+      "index": "Zq",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0.20824516069647614
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.47146727958286644,
+        "y": 0.47146727958286644,
+        "z": 0.47146727958286644
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": false,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "bef7f891-bd4f-4d62-bebb-b7479f04927f",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882023863,
+      "name": "LP001_defaultMat_0",
+      "parent": "c34268eb-3f66-4cfa-bf83-40b7f475b18a",
+      "index": "Zt",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": -3.1415926535897789,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968426014,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 0.620242178440094,
+        "height": 3.2906375825405121,
+        "depth": 0.639759749174118,
+        "areDimensionsLinked": false
+      },
+      "material": "fe6fbe5c-8fdd-46b9-9eae-502cdefef1a5",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "5426053b-15a4-4c53-a942-f47fb1a5e981",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "c34268eb-3f66-4cfa-bf83-40b7f475b18a",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882023863,
+      "name": "LP001",
+      "parent": "ac123e73-a563-4f44-860a-7b3a89a86f56",
+      "index": "Zt",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": -2.1986527442932129,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 1.570795955391588,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 33.1528205871582,
+        "y": 33.152834711175387,
+        "z": 33.152834711175387
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "ac123e73-a563-4f44-860a-7b3a89a86f56",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882023863,
+      "name": "Scene",
+      "parent": "43333351-25ac-4d8a-bffc-ee2627b3c94f",
+      "index": "Zt",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "43333351-25ac-4d8a-bffc-ee2627b3c94f",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882656251,
+      "name": "stick",
+      "parent": "1876a95b-a9b0-4c18-8d9f-6d509ccf3411",
+      "index": "Zo",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0.37430685006424558,
+        "y": 0.012746541784492305,
+        "z": 0.10634276173475821
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.001,
+        "y": 0.001,
+        "z": 0.001
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "17bce7fc-f389-4424-8977-125cef578614",
+      "type": "SpotLight",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708888037597,
+      "name": "Spot light 2",
+      "parent": "697eca65-b050-4bb1-819e-465b1a6b6721",
+      "index": "Zw",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": "2",
+      "activeParentStateId": null,
+      "states": {
+        "1": {
+          "behaviors": {},
+          "material": {},
+          "parameters": {
+            "radius": 10.865,
+            "color": "#0747ff",
+            "intensity": 0,
+            "distance": 0,
+            "decay": 2,
+            "angle": 0.41887902047863912,
+            "penumbra": 0.56,
+            "shouldShowLightRenderMesh": false,
+            "shouldShowHelper": true,
+            "luminousEfficacy": 13.333333333333334,
+            "isPhysicallyCorrect": true
+          },
+          "name": "Off"
+        },
+        "2": {
+          "behaviors": {},
+          "material": {},
+          "parameters": {},
+          "name": "On"
+        }
+      },
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {
+        "1669d836-a8a6-4cc6-bd01-f32faeacbfd2": {
+          "trigger": {
+            "type": "animationTrigger.auto",
+            "event": "animationTrigger.auto"
+          },
+          "animations": {
+            "4aaca627-d6b5-4da1-9534-418ed4514c70": {
+              "id": "4aaca627-d6b5-4da1-9534-418ed4514c70",
+              "sceneEntityId": "entity_self",
+              "fromStateId": null,
+              "toStateId": "1",
+              "duration": 0
+            }
+          }
+        },
+        "6379845a-675c-4d4b-8c1d-213ca688fc67": {
+          "trigger": {
+            "type": "animationTrigger.pointer",
+            "event": "animationEvent.pointerDown",
+            "targetEntityIds": [
+              "053aa517-9f7c-4bd9-9ea1-e6f5699ae414"
+            ]
+          },
+          "animations": {
+            "cb9b9210-8ceb-4b40-bd49-04a7b09a5f66": {
+              "id": "cb9b9210-8ceb-4b40-bd49-04a7b09a5f66",
+              "sceneEntityId": "entity_self",
+              "fromStateId": "1",
+              "toStateId": "2",
+              "duration": 1,
+              "delay": 0.5
+            }
+          }
+        },
+        "e7d147d0-8b7e-4ae4-829b-a22732dadf7b": {
+          "trigger": {
+            "type": "animationTrigger.pointer",
+            "event": "animationEvent.pointerDown",
+            "targetEntityIds": [
+              "053aa517-9f7c-4bd9-9ea1-e6f5699ae414"
+            ]
+          },
+          "animations": {
+            "dcfc496a-772a-43a0-a63c-baed8f8e665d": {
+              "id": "dcfc496a-772a-43a0-a63c-baed8f8e665d",
+              "sceneEntityId": "entity_self",
+              "fromStateId": "2",
+              "toStateId": "1",
+              "duration": 0.30000000000000004,
+              "delay": 0.5
+            }
+          }
+        }
+      },
+      "version": 231130,
+      "_metadata": {
+        "states": {
+          "1": {
+            "nodePosition": {
+              "x": 312,
+              "y": 195.20000000000005
+            }
+          },
+          "2": {
+            "nodePosition": {
+              "x": 440,
+              "y": 195.99999999999977
+            }
+          },
+          "base": {
+            "nodePosition": {
+              "x": 300,
+              "y": 100
+            }
+          },
+          "start_state": {
+            "nodePosition": {
+              "x": 100,
+              "y": 100
+            }
+          }
+        },
+        "interactions": {
+          "timelineIndicesByAnimationId": {
+            "75b766cd-e471-4db3-a60a-bbd724db95e5": "a0",
+            "4aaca627-d6b5-4da1-9534-418ed4514c70": "Zz",
+            "dcfc496a-772a-43a0-a63c-baed8f8e665d": "Zv",
+            "cb9b9210-8ceb-4b40-bd49-04a7b09a5f66": "Zu"
+          }
+        }
+      },
+      "position": {
+        "x": 1.0420091117590156,
+        "y": 4.4408920985006262E-16,
+        "z": -2.2204460492503131E-16
+      },
+      "rotation": {
+        "x": -0.72918185228652377,
+        "y": 0.45015333099903038,
+        "z": 3.082222856767217
+      },
+      "scale": {
+        "x": 0.99999999999999978,
+        "y": 0.99999999999999967,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "angle": 0.41887902047863912,
+        "penumbra": 0.56,
+        "radius": 10.865,
+        "luminousEfficacy": 13.333333333333334,
+        "isPhysicallyCorrect": true,
+        "distance": 0,
+        "decay": 2,
+        "color": "#0747ff",
+        "intensity": 63.661977236758133,
+        "shouldShowHelper": true,
+        "shouldShowLightRenderMesh": false
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "edd92b88-c04b-41ce-b86a-cc89208c93df--a3da4716-961a-4a88-9c8f-1df6aaf368a3",
+      "type": "SpotLight",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708888037597,
+      "name": "Spot light 1",
+      "parent": "697eca65-b050-4bb1-819e-465b1a6b6721",
+      "index": "Zx",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": "2",
+      "activeParentStateId": null,
+      "states": {
+        "1": {
+          "behaviors": {},
+          "material": {},
+          "parameters": {
+            "radius": 10.865,
+            "color": "#0747ff",
+            "intensity": 0,
+            "distance": 0,
+            "decay": 2,
+            "angle": 0.41887902047863912,
+            "penumbra": 0.56,
+            "shouldShowLightRenderMesh": false,
+            "shouldShowHelper": true,
+            "luminousEfficacy": 13.333333333333334,
+            "isPhysicallyCorrect": true
+          },
+          "name": "Off"
+        },
+        "2": {
+          "behaviors": {},
+          "material": {},
+          "parameters": {},
+          "name": "On"
+        }
+      },
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {
+        "6554938a-bce0-48db-beb1-f5437914ed22": {
+          "trigger": {
+            "type": "animationTrigger.auto",
+            "event": "animationTrigger.auto"
+          },
+          "animations": {
+            "12be280a-357e-49d6-86d8-a14ce60f655c": {
+              "id": "12be280a-357e-49d6-86d8-a14ce60f655c",
+              "sceneEntityId": "entity_self",
+              "fromStateId": null,
+              "toStateId": "1",
+              "duration": 0
+            }
+          }
+        },
+        "20fa5644-79e8-4f8b-81f6-3433e4c22543": {
+          "trigger": {
+            "type": "animationTrigger.pointer",
+            "event": "animationEvent.pointerDown",
+            "targetEntityIds": [
+              "053aa517-9f7c-4bd9-9ea1-e6f5699ae414"
+            ]
+          },
+          "animations": {
+            "189507f0-453f-4a7e-bc28-0154de830306": {
+              "id": "189507f0-453f-4a7e-bc28-0154de830306",
+              "sceneEntityId": "entity_self",
+              "fromStateId": "1",
+              "toStateId": "2",
+              "duration": 1,
+              "delay": 0.5
+            }
+          }
+        },
+        "fb54ae3c-e0bc-4590-a26b-88828de4a388": {
+          "trigger": {
+            "type": "animationTrigger.pointer",
+            "event": "animationEvent.pointerDown",
+            "targetEntityIds": [
+              "053aa517-9f7c-4bd9-9ea1-e6f5699ae414"
+            ]
+          },
+          "animations": {
+            "0d75e195-7264-46c8-843c-023e5e729a65": {
+              "id": "0d75e195-7264-46c8-843c-023e5e729a65",
+              "sceneEntityId": "entity_self",
+              "fromStateId": "2",
+              "toStateId": "1",
+              "duration": 0.30000000000000004,
+              "delay": 0.5
+            }
+          }
+        }
+      },
+      "version": 231130,
+      "_metadata": {
+        "states": {
+          "1": {
+            "nodePosition": {
+              "x": 312,
+              "y": 195.20000000000005
+            }
+          },
+          "2": {
+            "nodePosition": {
+              "x": 440,
+              "y": 195.99999999999977
+            }
+          },
+          "base": {
+            "nodePosition": {
+              "x": 300,
+              "y": 100
+            }
+          },
+          "start_state": {
+            "nodePosition": {
+              "x": 100,
+              "y": 100
+            }
+          }
+        },
+        "interactions": {
+          "timelineIndicesByAnimationId": {
+            "03848220-a8f5-403d-aeaf-56159e30e475": "a0",
+            "12be280a-357e-49d6-86d8-a14ce60f655c": "Zz",
+            "0d75e195-7264-46c8-843c-023e5e729a65": "Zv",
+            "189507f0-453f-4a7e-bc28-0154de830306": "Zu"
+          }
+        }
+      },
+      "position": {
+        "x": -1.0420091077873166,
+        "y": 4.4408920985006262E-16,
+        "z": -2.2204460492503131E-16
+      },
+      "rotation": {
+        "x": -0.72918185228652377,
+        "y": -0.45015333020462239,
+        "z": 3.082222856767217
+      },
+      "scale": {
+        "x": 0.99999999999999956,
+        "y": 0.99999999999999911,
+        "z": 0.99999999999999967
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "angle": 0.41887902047863912,
+        "penumbra": 0.56,
+        "radius": 10.865,
+        "luminousEfficacy": 13.333333333333334,
+        "isPhysicallyCorrect": true,
+        "distance": 0,
+        "decay": 2,
+        "color": "#0747ff",
+        "intensity": 63.661977236758133,
+        "shouldShowHelper": true,
+        "shouldShowLightRenderMesh": false
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "id": "53c12283-22cf-4303-b26a-9c84ef2ee946",
+      "type": "ModelSkinned",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708888037597,
+      "name": "magical-orb",
+      "position": {
+        "x": 0.002009111759015525,
+        "y": -0.57296345109117919,
+        "z": -1.6686563527344249
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.18,
+        "y": 0.18,
+        "z": 0.18
+      },
+      "parent": "697eca65-b050-4bb1-819e-465b1a6b6721",
+      "index": "Zy",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "isScaleLinked": true,
+      "urlKey": "5468cf85-627b-46d3-ac3c-ec9d4e7a47c9",
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "activeState": "2",
+      "activeParentStateId": null,
+      "startState": null,
+      "states": {
+        "1": {
+          "name": "Off",
+          "material": {},
+          "parameters": {},
+          "behaviors": {},
+          "scale": {
+            "x": -0.001,
+            "y": -0.001,
+            "z": -0.001
+          },
+          "layerOpacity": 0,
+          "activeImportedAnimation": "PlaneAction"
+        },
+        "2": {
+          "name": "On",
+          "material": {},
+          "parameters": {},
+          "behaviors": {}
+        }
+      },
+      "parentStates": {},
+      "ttl": 0,
+      "parameters": {
+        "width": null,
+        "height": null,
+        "depth": null,
+        "areDimensionsLinked": false
+      },
+      "colliders": {},
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "assetVersion": 0,
+      "overrides": null,
+      "activeImportedAnimation": "PlaneAction",
+      "importedAnimations": {
+        "animationsUrlKey": "60a9a2ad-849c-4caa-9479-7a89a9be4eb2"
+      },
+      "behaviors": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "interactions": {
+        "f39a8833-282e-471f-9d8b-2b22e43d6c60": {
+          "trigger": {
+            "event": "animationEvent.pointerDown",
+            "type": "animationTrigger.pointer",
+            "targetEntityIds": [
+              "053aa517-9f7c-4bd9-9ea1-e6f5699ae414"
+            ]
+          },
+          "animations": {
+            "2a2c6424-4ccc-4477-964f-7a0c88e3d722": {
+              "sceneEntityId": "entity_self",
+              "id": "2a2c6424-4ccc-4477-964f-7a0c88e3d722",
+              "fromStateId": "1",
+              "toStateId": "2",
+              "duration": 1,
+              "delay": 1
+            }
+          }
+        },
+        "8b6df158-dd30-4793-95e2-ee41159acde3": {
+          "trigger": {
+            "event": "animationTrigger.auto",
+            "type": "animationTrigger.auto"
+          },
+          "animations": {
+            "bc9662d9-8d1f-4bac-b378-b93031957bde": {
+              "sceneEntityId": "entity_self",
+              "id": "bc9662d9-8d1f-4bac-b378-b93031957bde",
+              "fromStateId": null,
+              "toStateId": "1",
+              "duration": 0
+            }
+          }
+        },
+        "0dd42d75-36f8-4448-961f-2bdbc27a7166": {
+          "trigger": {
+            "event": "animationEvent.pointerDown",
+            "type": "animationTrigger.pointer",
+            "targetEntityIds": [
+              "053aa517-9f7c-4bd9-9ea1-e6f5699ae414"
+            ]
+          },
+          "animations": {
+            "dc792d87-c383-42f6-ac75-dba43db7c984": {
+              "sceneEntityId": "entity_self",
+              "id": "dc792d87-c383-42f6-ac75-dba43db7c984",
+              "fromStateId": "2",
+              "toStateId": "1",
+              "duration": 0.30000000000000004,
+              "delay": 0.5
+            }
+          }
+        }
+      },
+      "version": 231130,
+      "_metadata": {
+        "states": {
+          "1": {
+            "nodePosition": {
+              "x": 312,
+              "y": 195.20000000000005
+            }
+          },
+          "2": {
+            "nodePosition": {
+              "x": 500,
+              "y": 200
+            }
+          },
+          "base": {
+            "nodePosition": {
+              "x": 300,
+              "y": 100
+            }
+          },
+          "start_state": {
+            "nodePosition": {
+              "x": 100,
+              "y": 100
+            }
+          }
+        },
+        "interactions": {
+          "timelineIndicesByAnimationId": {
+            "bc9662d9-8d1f-4bac-b378-b93031957bde": "Zz",
+            "dc792d87-c383-42f6-ac75-dba43db7c984": "Zw",
+            "2a2c6424-4ccc-4477-964f-7a0c88e3d722": "Zv"
+          }
+        }
+      },
+      "material": "559c496c-38de-4d21-bbf9-3555af89d955"
+    },
+    {
+      "overrides": null,
+      "id": "697eca65-b050-4bb1-819e-465b1a6b6721",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708885759092,
+      "name": "MeditationOn",
+      "parent": "1876a95b-a9b0-4c18-8d9f-6d509ccf3411",
+      "index": "Zn",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": -0.002009111759015525,
+        "y": 1.34844878976994,
+        "z": 0.81016794013692817
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "1876a95b-a9b0-4c18-8d9f-6d509ccf3411",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882514451,
+      "name": "MeditationAugment",
+      "parent": "b71a8537-8812-4375-9118-e3398d337a57",
+      "index": "Zz",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {},
+      "position": {
+        "x": 0,
+        "y": 0.74379580639813769,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": false,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 0
+    },
+    {
+      "id": "43f0f22b-cd75-429f-b56d-18f6c72540b3",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882184593,
+      "name": "desk_frame",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "parent": "b71a8537-8812-4375-9118-e3398d337a57",
+      "index": "Zz",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "isScaleLinked": true,
+      "urlKey": "cc8978b4-47f2-4885-802f-793e65d380f7",
+      "lastGeometryUpdated": 1708968418267,
+      "subdivisions": 0,
+      "activeState": null,
+      "activeParentStateId": null,
+      "startState": null,
+      "states": {},
+      "parentStates": {},
+      "ttl": 0,
+      "parameters": {
+        "width": 1.2211178541183472,
+        "height": 0.049512267112731934,
+        "depth": 0.51677095890045166,
+        "areDimensionsLinked": false
+      },
+      "colliders": {},
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "assetVersion": 1685129669400,
+      "overrides": null,
+      "activeImportedAnimation": null,
+      "importedAnimations": {},
+      "behaviors": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "interactions": {
+          "timelineIndicesByAnimationId": {}
+        }
+      },
+      "material": "bb2c1bf4-93d5-4880-b328-3174e99e698c"
+    },
+    {
+      "id": "c8afb1b9-28e1-40f2-98b9-a6d2024814f6",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882184593,
+      "name": "desk_legs",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "parent": "b71a8537-8812-4375-9118-e3398d337a57",
+      "index": "Zz",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "isScaleLinked": true,
+      "urlKey": "c3fe47df-f0cb-4f27-821a-8a94060c08d4",
+      "lastGeometryUpdated": 1708968419994,
+      "subdivisions": 0,
+      "activeState": null,
+      "activeParentStateId": null,
+      "startState": null,
+      "states": {},
+      "parentStates": {},
+      "ttl": 0,
+      "parameters": {
+        "width": 1.2055783271789551,
+        "height": 0.70617234706878662,
+        "depth": 0.57036870718002319,
+        "areDimensionsLinked": false
+      },
+      "colliders": {},
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "assetVersion": 1685129669400,
+      "overrides": null,
+      "activeImportedAnimation": null,
+      "importedAnimations": {},
+      "behaviors": {},
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "interactions": {
+          "timelineIndicesByAnimationId": {}
+        }
+      },
+      "material": "96eb00bd-9b66-49a3-b3f0-883f840ba7e9"
+    },
+    {
+      "overrides": null,
+      "id": "39e82478-f797-4fc7-975f-e2e153c9cd66",
+      "type": "Model",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882393307,
+      "name": "desk_top",
+      "parent": "b71a8537-8812-4375-9118-e3398d337a57",
+      "index": "Zx",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "interactions": {
+          "timelineIndicesByAnimationId": {}
+        }
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 1708968420005,
+      "subdivisions": 0,
+      "parameters": {
+        "width": 1.3145426511764526,
+        "height": 0.023278772830963135,
+        "depth": 0.65938752889633179,
+        "areDimensionsLinked": false
+      },
+      "material": "018410da-f220-49d1-b4e4-dbae707f5875",
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": "b9e87175-be3e-466f-a148-fba9154bc654",
+      "assetVersion": 0
+    },
+    {
+      "overrides": null,
+      "id": "b71a8537-8812-4375-9118-e3398d337a57",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882184593,
+      "name": "desk_grp",
+      "parent": "c81c8209-30d4-443e-b928-37ce30596218",
+      "index": "Zz",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "interactions": {
+          "timelineIndicesByAnimationId": {}
+        }
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 1685129669400
+    },
+    {
+      "overrides": null,
+      "id": "c81c8209-30d4-443e-b928-37ce30596218",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708882184593,
+      "name": "",
+      "parent": "6f1a5c0b-941e-498b-baf8-24c313efc1f1",
+      "index": "Zz",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "interactions": {
+          "timelineIndicesByAnimationId": {}
+        }
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 1685129669400
+    },
+    {
+      "overrides": null,
+      "id": "6f1a5c0b-941e-498b-baf8-24c313efc1f1",
+      "type": "Group",
+      "lastWriter": "da37a770-9e04-4bf9-88ee-9660d9af45b4",
+      "lastUpdated": 1708887456147,
+      "name": "Component",
+      "parent": null,
+      "index": "a0",
+      "isVisible": true,
+      "isLocked": false,
+      "collapsed": false,
+      "activeState": null,
+      "activeParentStateId": null,
+      "states": {},
+      "parentStates": {},
+      "startState": null,
+      "colliders": {},
+      "ttl": 0,
+      "asset": null,
+      "assetSource": null,
+      "isInstance": false,
+      "importedAnimations": {},
+      "behaviors": {},
+      "interactions": {},
+      "version": 231130,
+      "_metadata": {
+        "interactions": {
+          "timelineIndicesByAnimationId": {}
+        }
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -0.0046737598912810485
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "isScaleLinked": true,
+      "lastGeometryUpdated": 0,
+      "subdivisions": 0,
+      "parameters": {
+        "helperType": "NONE"
+      },
+      "viewSettings": {
+        "castShadow": true,
+        "receiveShadow": true,
+        "side": 0
+      },
+      "isInteractive": true,
+      "layerOpacity": 1,
+      "activeImportedAnimation": null,
+      "urlKey": null,
+      "assetVersion": 1685129669400
+    }
+  ]
+}

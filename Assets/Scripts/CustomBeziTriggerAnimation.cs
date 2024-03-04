@@ -6,6 +6,7 @@ using Bezi.Bridge;
 using DG.Tweening;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Events;
 using Animation = Bezi.Bridge.Animation;
 using State = Bezi.Bridge.State;
 
@@ -22,6 +23,8 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
     
     [SerializeField]
     private List<GameObject> disableGameObjects;
+
+    [SerializeField] private UnityEvent additionalNonBeziEvents;
 
 
     public void OnTriggerEvent()
@@ -47,6 +50,11 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
         }
 
         DisableGameObjectsAfterAllAnimations(listAnimationDurations.Max(u => u) + 0.2f);
+
+        if (!additionalNonBeziEvents.IsUnityNull())
+        {
+            additionalNonBeziEvents.Invoke();
+        }
     }
 
     private float PerformAnimation(BeziBehavior behavior, Animation animation, GameObject thisObj)

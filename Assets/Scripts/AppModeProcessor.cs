@@ -39,8 +39,7 @@ public class AppModeProcessor : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        startingMode = AppMode.Normal;
-        _currentMode = AppMode.Normal;
+        _currentMode = startingMode;
 
         AppModeTrigger newAppModeTrigger = _objectDict[_currentMode];
         if (newAppModeTrigger != null)
@@ -48,6 +47,8 @@ public class AppModeProcessor : MonoBehaviour
             // set new timeout snap place - after the timeout it will do its snap magic
             interactor.InjectOptionalTimeOutInteractable(newAppModeTrigger.interactable);
             
+            // disable snap area from this state
+            newAppModeTrigger.thisSnapArea.gameObject.SetActive(false);
         }
     }
 
