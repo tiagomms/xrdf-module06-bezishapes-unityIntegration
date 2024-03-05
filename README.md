@@ -1,9 +1,10 @@
-# xrdf-module06-bezishapes-unityIntegration
-XR Design Fellowship Module 06 - Bezi or ShapesXR integration with Unity
+# XR Design Fellowship Projects in Unity: Using Bezi bridge
 
-## [Project description](https://tiagomms.github.io/xr-portfolio/blog/xr-design-fellowship-module-06-assign/)
+- [XR Design Fellowship Module 06 - Bezi or ShapesXR integration with Unity](https://tiagomms.github.io/xr-portfolio/blog/xr-design-fellowship-module-06-assign/)
+- [XR Design Fellowship Module 07 - Meta augment](https://tiagomms.github.io/xr-portfolio/blog/xr-design-fellowship-module-07-assign/)
 
-Imported project developed in Bezi for Module 01 into Unity and used Meta Quest building blocks and some code to make it interactive.
+Design projects initially developed in Bezi and imported into Unity. 
+Used Meta Quest building blocks and some code to make them interactive.
 
 ## Requirements for Opening Project
 - Unity 2022.3.16f1
