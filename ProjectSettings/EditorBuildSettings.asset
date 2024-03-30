@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Module01-UnityBeziIntegration.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Module07-Augments-BeziIntegration.unity
+    guid: 2b46c3eeccfa4c54fb898858e2d2f5ee
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 42bbd7d465b274b03861660c7a03411c,
       type: 2}
