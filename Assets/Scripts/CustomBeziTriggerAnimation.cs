@@ -73,9 +73,9 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
             if (!animation.notTransformAnimation)
             {
                 s.Insert(0, behavior.transform.DOLocalMove(
-                    state.position.ToVector3InvertX(),
+                    BeziVector3Extension.ToVector3InvertX(state.position),
                     animation.duration, false));
-                s.Insert(0, behavior.transform.DOLocalRotate(state.rotation.ToVector3(),
+                s.Insert(0, behavior.transform.DOLocalRotate(BeziVector3Extension.ToVector3(state.rotation),
                     animation.duration,
                     RotateMode.FastBeyond360));
 
@@ -84,7 +84,7 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
             if (animation.updateScale)
             {
                 s.Insert(0,behavior.transform.DOScale(
-                    state.scale.ToVector3(),
+                    BeziVector3Extension.ToVector3(state.scale),
                     animation.duration));
             }
         
