@@ -36,7 +36,7 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
         {
             BeziBehavior behavior = keyValue.Value;
 
-            Interaction interaction = behavior.GetInteraction(keyValue.Key);
+            Interaction interaction = BeziBehaviorExtension.GetInteraction( behavior, keyValue.Key);
 
             if (interaction != null)
             {
@@ -59,7 +59,7 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
 
     private float PerformAnimation(BeziBehavior behavior, Animation animation, GameObject thisObj)
     {
-        State state = behavior.GetState(Convert.ToInt32(animation.toStateId));
+        State state = BeziBehaviorExtension.GetState(behavior, Convert.ToInt32(animation.toStateId));
 
         if (state != null)
         {
