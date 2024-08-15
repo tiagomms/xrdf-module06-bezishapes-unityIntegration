@@ -36,7 +36,7 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
         {
             BeziBehavior behavior = keyValue.Value;
 
-            Interaction interaction = BeziBehaviorExtension.GetInteraction( behavior, keyValue.Key);
+            Interaction interaction = behavior.GetInteraction(keyValue.Key);
 
             if (interaction != null)
             {
@@ -59,7 +59,7 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
 
     private float PerformAnimation(BeziBehavior behavior, Animation animation, GameObject thisObj)
     {
-        State state = BeziBehaviorExtension.GetState(behavior, Convert.ToInt32(animation.toStateId));
+        State state = behavior.GetState(Convert.ToInt32(animation.toStateId));
 
         if (state != null)
         {
@@ -73,9 +73,9 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
             if (!animation.notTransformAnimation)
             {
                 s.Insert(0, behavior.transform.DOLocalMove(
-                    BeziVector3Extension.ToVector3InvertX(state.position),
+                    state.position.ToVector3InvertX(),
                     animation.duration, false));
-                s.Insert(0, behavior.transform.DOLocalRotate(BeziVector3Extension.ToVector3(state.rotation),
+                s.Insert(0, behavior.transform.DOLocalRotate(state.rotation.ToVector3(),
                     animation.duration,
                     RotateMode.FastBeyond360));
 
@@ -84,7 +84,7 @@ public class CustomBeziTriggerAnimation : MonoBehaviour
             if (animation.updateScale)
             {
                 s.Insert(0,behavior.transform.DOScale(
-                    BeziVector3Extension.ToVector3(state.scale),
+                    state.scale.ToVector3(),
                     animation.duration));
             }
         
