@@ -6,6 +6,8 @@
 Design projects initially developed in Bezi and imported into Unity. 
 Used Meta Quest building blocks and some code to make them interactive.
 
+**Bug to be solved:** Due to lack of time, I had to rewrite some code directly in the BeziXR Bridge in order to make it work in my machine. It is very likely it will not work in yours.
+
 ## Requirements for Opening Project
 - Unity 2022.3.16f1
 - Meta Quest 2/ 2 Pro or 3
